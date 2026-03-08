@@ -79,3 +79,19 @@ body{
     align-items: center;
     gap: 5px;
 }
+.aside1{
+    width: 49%;
+    height: 97%;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 5px;
+}
+.aside2{
+    width: 49%;
+    height: 97%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: wrap;
+}
