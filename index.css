@@ -436,7 +436,7 @@ span{
     width: 100%;
     height: 30vh;
 }
-/*
+
 .header2{
     width: 100%;
     height: 25vh;
@@ -491,7 +491,7 @@ span{
 }
 
 
-.cards-holder{
+/*.cards-holder{
     width: 100%;
     height: 60vh;
     display: flex;
