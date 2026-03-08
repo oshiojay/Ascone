@@ -109,3 +109,52 @@ span{
     align-items: center;
     flex-flow: wrap;
 }
+.logofooter{
+    width: 100%;
+    height: 20vh;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logofoot1{
+    width: 15%;
+    height: 70%;
+    background-image: url(https://cdn.prod.website-files.com/672303104903a04ce2f497df/6723287142c9911c7506cc46_loom.svg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.logofoot2{
+    width: 15%;
+    height: 70%;
+    background-image: url(https://cdn.prod.website-files.com/672303104903a04ce2f497df/67232872673999456170277b_hubspot.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.logofoot3{
+    width: 15%;
+    height: 70%;
+    background-image: url(https://cdn.prod.website-files.com/672303104903a04ce2f497df/672328725bb26957a627d96b_openai.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.logofoot4{
+    width: 15%;
+    height: 70%;
+    background-image: url(https://cdn.prod.website-files.com/672303104903a04ce2f497df/67232872d8c4115ffc2c9dab_raycast.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.logofoot5{
+    width: 15%;
+    height: 70%;
+    background-image: url(https://cdn.prod.website-files.com/672303104903a04ce2f497df/67232871dd79bcb665825040_zenefits.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
