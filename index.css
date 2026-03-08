@@ -152,3 +152,38 @@ span{
     align-items: center;
     flex-flow: wrap;
 }
+.box1{
+    width: 50%;
+    height: 50%;
+    background-image: url(https://cdn.prod.website-files.com/672303104903a04ce2f497df/67232715037a3c1c2224d030_charlesdeluvio-6OF-Ly-5oJY-unsplash%201.avif);
+     background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.box2{
+    width: 50%;
+    height: 50%;
+    background-image: url(asset/Screenshot\ 2026-03-08\ 131522.png);
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+     background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.box3{
+    width: 50%;
+    height: 50%;
+    background-image: url(asset/Screenshot\ 2026-03-08\ 132015.png);
+    border-top-right-radius: 50%;
+     background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.box4{
+    width: 50%;
+    height: 50%;
+   background-image: url(asset/Screenshot\ 2026-03-07\ 193224.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
