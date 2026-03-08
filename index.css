@@ -275,3 +275,14 @@ span{
    background-repeat: no-repeat;
    background-size: cover;
 }
+.faq{
+    display: flex;
+    padding: 60px;
+    gap: 80px;
+    justify-content: space-between;
+    font-weight: 100%;
+}
+.faq-left h2{
+    font-weight: 100%;
+    font-size: 55px;
+}
