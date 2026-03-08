@@ -152,3 +152,42 @@ span{
     align-items: center;
     flex-flow: wrap;
 }
+.banner{
+    background-image:url(https://cdn.prod.website-files.com/672303104903a04ce2f497df/67233c1f2028179b53d2037b_nat-Z0vdRzr_iZM-unsplash%201-p-500.png);
+    background-repeat: no-repeat;
+    background-color: rgba(13, 85, 69, 0.562);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+    color: white;
+}
+.banner-content{
+    display: flex;
+    align-content:center;
+    justify-content: space-around;
+    font-size: 40px;
+    align-items: center;
+}
+.First{
+    font-size: 12px;
+    margin: 0%;
+    font-size: 50px;
+}
+.change{
+    font-size: 50%;
+}
+.stat{
+    font-size: 12px;
+    margin: 0%;
+    font-size: 50px;
+}
+.later{
+    font-size: 50px;
+}
+.repeat{
+    font-size: 15px;
+}
+.text{
+    font-size: 50px;
+}
