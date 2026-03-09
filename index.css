@@ -287,6 +287,19 @@ span{
     font-weight: 100%;
     font-size: 55px;
 }
+.faq-right{
+    width:60%;
+    font-weight: 100%;
+    font-weight:bold;
+}
+details{
+    padding: 15px;
+    font-weight: bold;
+}
+summary{
+    font-weight:bold;
+    cursor:pointer;
+    list-style:none;
 
 
 
