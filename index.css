@@ -7,7 +7,7 @@
 body{
     width: 100%;
     min-height: 100vh;
-    background-color: white;
+    background-color: whitesmoke;
     gap: 10px;
 }
 .header{
@@ -120,9 +120,9 @@ span{
     width: 30%;
     height: 50px;
      border-radius: 25px;
-    color: white;
+    color: whitesmoke;
     border: 0;
-    background-color: rgb(26, 48, 43);
+    background-color: rgb(28, 48, 43);
 }
 .star{
      width: 40%;
@@ -239,6 +239,7 @@ span{
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
+
 }
 .box1{
     width: 50%;
